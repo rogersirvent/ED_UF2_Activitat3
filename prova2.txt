@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 holadsfdsfsdfsd
 fdsfsdfd
+=======
+holatestesttest
+
+>>>>>>> 2765dc925d66f25a4730bf3a8c94416cae662792
